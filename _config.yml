@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ph.D. Candidate in Economics"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "IRES/LIDAM, UCLOuvain and Department of Economics, UGent"
   location         : "Belgium"
   employer         :
