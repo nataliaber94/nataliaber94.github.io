@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natalia Bermudez"
+title                    : "Natalia Bermúdez"
 title_separator          : "-"
-name                     : &name "Natalia Bermudez"
-description              : &description "personal description"
+name                     : &name "Natalia Bermúdez"
+description              : &description "Ph.D. Candidate in Economics "
 url                      : https://nataliaber94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nataliaber94/nataliaber94.github.io"
+repository               : "nataliaber94.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
