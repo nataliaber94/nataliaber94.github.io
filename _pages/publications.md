@@ -5,14 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research
+## Work in Progress
 
- <!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?hl=en&user=0MEXVUsAAAAJ}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Working papers
 
-{% include base_path %}
+## Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+
