@@ -13,12 +13,9 @@ I am a third year Ph.D. student in Economics at IRES/[LIDAM](https://uclouvain.b
 
 Research interests: **micro-econometrics** and **labor economics**. <br />
 
+I am currently evaluating the impact of **Short-time work (STW) policies** in Belgium during the Great Recession and COVID-19 period within the program BRAIN-be 2.0 (2020-2025) funded by the Belgian Federal Administration Science Policy [(BELSPO)](https://www.belspo.be/).<br />
 
-I am currently evaluating the impact of **Short-time work (STW) policies** in Belgium during the Great Recession and COVID-19 period within the program BRAIN-be 2.0 (2020-2025) funded by the Belgian Federal Administration Science Policy [(BELSPO)](https://www.belspo.be/).
-
-<br />
 I will be visiting the Department of Economics at Sciences Po University from January to March 2024. Let me know if you are around!
-
 
 ## Contact
 
@@ -30,5 +27,5 @@ Collège Léon Dupriez,
 Office D.133 , 
 1348 Louvain-la-Neuve, Belgium  
   
-**Email:** natalia.bermudez@uclouvain.be      
+**Email:** natalia.bermudez@uclouvain.be or natalia.bermudez@ugent.be   
 
