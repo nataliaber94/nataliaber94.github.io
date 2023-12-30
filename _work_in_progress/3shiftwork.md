@@ -5,5 +5,5 @@ permalink: /work_in_progess/shiftwork
 coauthors: "Sam Desiere"
 date: 2021-12-01
 ---
-With Sam Deseire
+With Sam Deseire <br />
 [Long abstract](https://www.gesis.org/fileadmin/upload/dienstleistung/daten/amtl_mikrodaten/europ_microdata/Abstracts_2023/002-01-16_Bermudez__Desiere.pdf)
