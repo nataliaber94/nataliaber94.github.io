@@ -5,4 +5,4 @@ permalink: /work_in_progess/shiftwork
 coauthors: "Sam Desiere"
 ---
 With Sam Deseire
-[Long abstract](https://doi.org/10.1108/IJOEM-07-2018-0371)
+[Long abstract](https://www.gesis.org/fileadmin/upload/dienstleistung/daten/amtl_mikrodaten/europ_microdata/Abstracts_2023/002-01-16_Bermudez__Desiere.pdf)
