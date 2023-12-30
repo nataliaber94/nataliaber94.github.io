@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Work in Progress
+## Work in Progress  
 
 ## Working papers
 
