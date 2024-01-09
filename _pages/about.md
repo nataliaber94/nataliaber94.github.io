@@ -20,11 +20,11 @@ I will be visiting the Department of Economics at Sciences Po University from Ja
 ## Contact
 
 **Address:** 
-Louvain Institute of Data Analysis and Modeling in Economics and Statistics (LIDAM)
-Institute of Economics and Social Research (IRES)
-Pl.Montesquieu 3, 
-Collège Léon Dupriez, 
-Office D.133 , 
+Louvain Institute of Data Analysis and Modeling in Economics and Statistics (LIDAM)<br />
+Institute of Economics and Social Research (IRES)<br />
+Pl.Montesquieu 3, <br />
+Collège Léon Dupriez, <br />
+Office D.133,<br /> 
 1348 Louvain-la-Neuve, Belgium  
   
 **Email:** natalia.bermudez@uclouvain.be or natalia.bermudez@ugent.be   
