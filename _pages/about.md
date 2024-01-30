@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Economics at IRES/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), UCLouvain and [Department of Economics, UGent](https://www.ugent.be/eb/economics/en/research/laboureconwelfpg), under the supervision of [Muriel Dejemeppe](https://perso.uclouvain.be/muriel.dejemeppe/) and [Bart Cockx](https://sites.google.com/site/bartcockxsite/).
+I am a third year Ph.D. student in Economics at IRES/[LIDAM](https://uclouvain.be/en/research-institutes/lidam) (UCLouvain) and [Department of Economics (UGent)](https://www.ugent.be/eb/economics/en/research/laboureconwelfpg), under the supervision of [Muriel Dejemeppe](https://perso.uclouvain.be/muriel.dejemeppe/) and [Bart Cockx](https://sites.google.com/site/bartcockxsite/).
 <br />
 
 Research interests: **micro-econometrics** and **labor economics**. <br />
