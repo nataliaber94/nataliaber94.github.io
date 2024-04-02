@@ -26,6 +26,23 @@ administrative micro-aggregated data on program usage and exploiting exogenous v
 
 
 <br>
+
+**"Shiftwork in Europe: Ten facts"**
+  
+<i><font size="-0.5"> with <a href="https://www.iza.org/person/30997/sam-desiere">Sam Desiere</a>. </font></i>[<font size="-0.5"><a href="https://www.gesis.org/fileadmin/upload/dienstleistung/daten/amtl_mikrodaten/europ_microdata/Abstracts_2023/002-01-16_Bermudez__Desiere.pdf">Long abstract</a></font>]
+
+<br>
+
+**"Firm outcomes adjustment in response to changes in the corporate income tax rate in Developing Countries: Evidence from Ecuador 2013 - 2019"**
+  
+<i><font size="-0.5"> Master Thesis supervisor: <a href="https://sites.google.com/view/williampariente/home">William Pariente </a>. </font></i>[<font size="-0.5"><a href="https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A30742">Long abstract</a></font>]
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The low tax capacity is an important issue in many developing and emerging countries. Most governments have tackled this issue by implementing fiscal reforms that comprise changes in tax rates, improvements in administrative enforcement or even both at the same time. I use a quasi experimental setting created as a result of a fiscal reform in Ecuador in late 2014. Using a panel of administrative data from firms financial statements during the period 2013-2018, I exploit the variation created by the reform that consisted in an increase from 22% to 25% - in 2015 - and to 28% - in 2018 - on the statutory corporate income tax rate. Three types of responses are studied: 1) corporate size responses, 2) financing responses, 3) profit shifting responses and 4) changes in ownership structure after the reform. Even though there is a large literature that has been built around firms behavior to changes in corporate tax rates in developed countries, there is ambiguos and scarced evidence about the responses of firms to fiscal reforms in developing and emerging countries. </font>
+</p> 
+
+<br>
+
+
 ## Working Papers
 <br>
 
@@ -46,5 +63,37 @@ administrative micro-aggregated data on program usage and exploiting exogenous v
 </p> 
 
 <br>
+
+
+
 ## Publications
+<br>
+
+<a href="https://doi.org/10.1111/rode.12771">**"Productivity determinants in the construction sector in emerging country: New evidence from Ecuadorian firms"**</a>
+
+<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a>. [<font size="-0.5"> Article </font>] [<font size="-0.5"><a href="https://doi.org/10.1111/rode.12771">Review of Development Economics</a></font>]
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The construction sector is one of the most important sectors for economic development due, among other reasons, to the productive chains that it generates. This paper presents an analysis of the determinants of the total factor productivity (TFP) in the Ecuadorian construction sector during the period 2007–2018. In the first stage, we estimate a production function using the Wooldridge (Economics Letters, 2009, 104, 112–114) estimator to correct the simultaneous determination of inputs and firm unobserved productivity. In the second stage, we analyze the main determinants of TFP. These determinants are classified into four groups: internal, international trade, financial constraints, and external characteristics. Our results suggest that firm age is positively related with TFP but negatively related with TFP growth. Similarly, the fact of being a family firm is negatively related with TFP, but size is positively related with TFP and its growth across the construction subsectors. In addition, we find that access to debt and credit is positively related with productivity, but less-competitive environment is negatively related with productivity. Finally, our results suggest that TFP and its growth are pro-cyclical with respect to the gross domestic product. Our results have several managerial implications that are discussed in this article.</font>
+</p> 
+
+-------------
+<br>
+
+<a href="https://doi.org/10.1007/s00191-022-00806-2">**"Is FDI a potential tool for boosting firm’s performance? Firm level evidence from Ecuador"**</a>
+
+<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a> and <a href="https://scholar.google.co.th/citations?user=eA-MQHQAAAAJ&hl=th">Mary Armijos</a>. [<font size="-0.5"> Article </font>] [<font size="-0.5"><a href="https://doi.org/10.1007/s00191-022-00806-2">Journal of Evolutionary Economics</a></font>]
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> In developing countries, the evidence regarding the direct and indirect effects of FDI on economic and financial performance at the firm level is mixed. To contribute to this literature, we provide empirical evidence of direct and indirect effects of FDI on firm’s performance, using return on assets (ROA), gross revenues and gross revenues growth rate as performance measures. We examine the private formal enterprise sector in Ecuador from 2007 to 2018. Our identification strategy relies on the use of the Generalized Method of Moments (GMM) methodology for dynamic panel data which allows us to control for potential endogeneity, autocorrelation and heteroskedasticity issues. The results suggest that firms with inward FDI grow faster than their counterparts, and firms with higher amounts of FDI as a share of total revenues have on average higher levels of gross revenues. Moreover, we find negative horizontal wages and gross revenues spillover effects on gross revenues growth rates, but positive horizontal gross revenues spillover effects on ROA. There is also significant evidence of negative horizontal spillover effects in all economic sectors, whereas evidence for forward and backward spillovers is heterogeneous across them.</font>
+</p> 
+
+-------------
+<br>
+
+<a href="https://doi.org/10.1108/IJOEM-07-2018-0371">**"Determinants of profitability of life and non-life insurance companies: evidence from Ecuador"**</a>
+
+<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a>. [<font size="-0.5"> Article </font>] [<font size="-0.5"><a href="https://doi.org/10.1108/IJOEM-07-2018-0371">International Journal of Emerging Markets</a></font>]
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The purpose of this paper is is to identify the main determinants of insurance profitability on life and non-life segments to obtain which variables affect in each market of the Ecuadorian insurance sector. Using a large panel data set with financial information from 2001 to 2017 we estimate the determinants through a panel corrected standard errors regression. We find that net premiums, technical reserves, capital ratio and score efficiency are micro-determinants in the life insurance sector, whereas in the non-life sector, the micro-determinants include also claim levels and liquidity ratios; moreover, we find that HHI is a determinant of profitability only in the life insurance sector. Among the macro determinants set, we find that the interest rate has also a significant impact both in the life and non-life insurance segments.</font>
+</p> 
+
 <br>
