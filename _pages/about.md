@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in Economics at IRES/[LIDAM](https://uclouvain.be/en/research-institutes/lidam) (UCLouvain) and [Department of Economics (UGent)](https://www.ugent.be/eb/economics/en/research/laboureconwelfpg), under the supervision of [Muriel Dejemeppe](https://perso.uclouvain.be/muriel.dejemeppe/) and [Bart Cockx](https://sites.google.com/site/bartcockxsite/).
+Welcome to my website. I am a fourth year Ph.D. student in Economics at IRES/[LIDAM](https://uclouvain.be/en/research-institutes/lidam) (UCLouvain) and [Department of Economics (UGent)](https://www.ugent.be/eb/economics/en/research/laboureconwelfpg), under the supervision of [Muriel Dejemeppe](https://perso.uclouvain.be/muriel.dejemeppe/) and [Bart Cockx](https://sites.google.com/site/bartcockxsite/).
 <br />
 
 Research interests: **micro-econometrics** and **labor economics**. <br />
@@ -17,7 +17,9 @@ As part of my PhD thesis I am currently evaluating the impact of **Short-time wo
 
 I visited the Economics Department (hosted by Prof. Pierre Cahuc) at Sciences Po University in spring 2024.
 
-**I am in the Job Market 2024-2025.**[You can find my CV here](https://drive.google.com/file/d/1-8zP7xXeg8O10729Rpd-F2zb7md1xHCz/view?usp=sharing)
+**I am in the Job Market 2024-2025.**
+
+[You can find my CV here](https://drive.google.com/file/d/1-8zP7xXeg8O10729Rpd-F2zb7md1xHCz/view?usp=sharing)
 
 ## Contact
 

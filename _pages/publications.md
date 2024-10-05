@@ -9,8 +9,9 @@ author_profile: true
 {% include base_path %}
 
 **"Protecting Jobs and Firms: The Impact of Short-Time Work during the COVID-19 Crisis in Belgium"**
-<i><font size="-0.5"> JOB MARKET PAPER </font></i>
-
+<p 
+<i><font size="-0.5"> **JOB MARKET PAPER** </font></i>
+</p>
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The main goal of Short-Time Work (STW) programs is to protect jobs and firms. However, their cost-effectiveness during the pandemic has yet to be fully understood from a causal perspective. This paper examines the effectiveness of STW during the COVID-19 pandemic, a period marked by the highest take-up rates in history. Using a regression discontinuity design, I exploit a unique policy change in Belgium that restricted access to STW for certain firms. The results show that firms in sectors directly affected by the lockdown experienced the largest employment gains. Future research aims at exploring the degree of deadweight effects and heterogeneous responses across firms and worker characteristics.</font>
 </p> 
 
