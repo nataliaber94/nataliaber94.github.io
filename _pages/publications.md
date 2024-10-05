@@ -8,11 +8,18 @@ author_profile: true
 
 {% include base_path %}
 
-**"Short-time work and its effect on employment and firm survival: evidence from the Great Recession in Belgium"**
-<i><font size="-0.5"> with <a href="https://sites.google.com/site/bartcockxsite/">Bart Cockx</a> and <a href="https://www.nbb.be/nl/blog/author/gert-bijnens?language=de">Gert Bijnens</a>. </font></i>[<font size="-0.5"><a href="https://drive.google.com/file/d/1tKwA_jd9HXwmhWDlDGVVOg5511Hzry_8/view?usp=sharing">Abstract</a></font>]
+**"Protecting Jobs and Firms: The Impact of Short-Time Work during the COVID-19 Crisis in Belgium"**
+<i><font size="-0.5"> JOB MARKET PAPER </font></i>
 
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper examines the effectiveness of Short-time work (STW) programs during the Great Recession in Belgium, the country with the highest uptake in Europe. While earlier studies have evaluated similar programs in other European countries during the same period, conclusions have varied based on the characteristics of treated firms and the persistence of economic shocks. Our study contributes to understanding the determinants of these findings. Leveraging novel
-administrative micro-aggregated data on program usage and exploiting exogenous variations in STW take-up through an institutional feature, we find, in line with existing literature, that STW effectively preserved jobs and increased working hours, at least one year after the crisis onset in Belgium. This positive impact aligns with the observed positive effect on firm survival also one year after the initial aggregate shock. Despite the persistent positive effect on employment in subsequent periods, this is not statistically significant for the average firm. Future analyses aim to identify the firms that benefited the most from the policy and assess the persistence of these effects over time.</font>
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The main goal of Short-Time Work (STW) programs is to protect jobs and firms. However, their cost-effectiveness during the pandemic has yet to be fully understood from a causal perspective. This paper examines the effectiveness of STW during the COVID-19 pandemic, a period marked by the highest take-up rates in history. Using a regression discontinuity design, I exploit a unique policy change in Belgium that restricted access to STW for certain firms. The results show that firms in sectors directly affected by the lockdown experienced the largest employment gains. Future research aims at exploring the degree of deadweight effects and heterogeneous responses across firms and worker characteristics.</font>
+</p> 
+
+<br>
+
+**"Short-time work and its effect on employment and firm survival: evidence from the Great Recession in Belgium"**
+<i><font size="-0.5"> with <a href="https://sites.google.com/site/bartcockxsite/">Bart Cockx</a> and <a href="https://www.nbb.be/nl/blog/author/gert-bijnens?language=de">Gert Bijnens</a>. </font></i>
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> We examine the effectiveness of Short-time Work (STW) programs during the Great Recession (GR) in Belgium, the country with the largest uptake in Europe. Designed to preserve job matches by allowing reductions in working time in response to temporary economic shocks, STW is an important program in the toolkit of social insurance systems in Europe. While earlier studies shed light on the program’s impact in other European countries using firm-level data, conclusions vary depending on the characteristics of treated firms and the persistence of economic shocks. Our study proposes an econometric approach with grouped data that uses exogenous variations in STW take-up through an institutional feature. We find, in line with existing literature, that STW take-up reduces working hours per employee, but does not significantly increase headcount employment in the short- or long-run for the average treated firm. However, we find that STW (firm) users had a higher net retention rate (a survival proxy) than non-STW users which has positive implications on employment. In terms of wages, consistent with the policy use, gross wages per worker fall at the moment of treatment while wage rates of non-users are positively affected suggesting that low wage workers take-up STW, incurring most of the burden of the negative shock. </font>
 </p> 
 
 <br>
@@ -30,6 +37,10 @@ administrative micro-aggregated data on program usage and exploiting exogenous v
 **"Shiftwork in Europe: Ten facts"**
   
 <i><font size="-0.5"> with <a href="https://www.iza.org/person/30997/sam-desiere">Sam Desiere</a>. </font></i>[<font size="-0.5"><a href="https://www.gesis.org/fileadmin/upload/dienstleistung/daten/amtl_mikrodaten/europ_microdata/Abstracts_2023/002-01-16_Bermudez__Desiere.pdf">Long abstract</a></font>]
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong>	Shift work is a modality of work organization that has been scarcely explored in the economic literature compared to other working time modalities (e.g., part-time and temporary work). Policymakers have focused their attention on the negative effects that working shifts can have on the well-being and health of workers. However, less is known about differences in the prevalence of shift work over time and across countries. This paper describes ten stylized facts regarding the evolution of the prevalence of shift work across 15 European countries during 2001-2019 and links changes to differences in the evolution of shift premium across and within countries. It uses evidence from two surveys. The European Labor Force Survey (EU-LFS) for understanding differences in the prevalence of shift work across and within countries, and the European Structure of Earnings Survey (SES) to map changes in the shift premium. </font>
+</p> 
+
 
 <br>
 

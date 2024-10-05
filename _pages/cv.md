@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://drive.google.com/file/d/1_5K2k7Pj3lrw5ucqNSHUKGPnBuQTGOas/view?usp=sharing) (Last update: December 2023)
+[Download CV here](https://drive.google.com/file/d/1-8zP7xXeg8O10729Rpd-F2zb7md1xHCz/view?usp=sharing) (Last update: October 2024)
