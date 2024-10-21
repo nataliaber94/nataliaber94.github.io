@@ -25,7 +25,7 @@ author_profile: true
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> We examine the effectiveness of Short-time Work (STW) programs during the Great Recession (GR) in Belgium, the country with the largest uptake in Europe. Designed to preserve job matches by allowing reductions in working time in response to temporary economic shocks, STW is an important program in the toolkit of social insurance systems in Europe. While earlier studies shed light on the program’s impact in other European countries using firm-level data, conclusions vary depending on the characteristics of treated firms and the persistence of economic shocks. Our study proposes an econometric approach with grouped data that uses exogenous variations in STW take-up through an institutional feature. We find, in line with existing literature, that STW take-up reduces working hours per employee, but does not significantly increase headcount employment in the short- or long-run for the average treated firm. However, we find that STW (firm) users had a higher net retention rate (a survival proxy) than non-STW users which has positive implications on employment. In terms of wages, consistent with the policy use, gross wages per worker fall at the moment of treatment while wage rates of non-users are positively affected suggesting that low wage workers take-up STW, incurring most of the burden of the negative shock. </font>
 </p> 
 
-<p style="text-align: justify"> <font size="-1"> <strong> Presented at:  </strong> AIEL 2023, COMPIE 2024, ESPE 2024, and EALE 2024. </font>
+<p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> AIEL 2023 Genoa, COMPIE 2024 Amsterdam, ESPE 2024 Rotterdam, and EALE 2024 Bergen. </font>
 </p> 
 
 <br>
@@ -37,6 +37,10 @@ author_profile: true
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper evaluates a hiring subsidy for lower-educated youth in Flanders (Belgium) that reduced labour costs by 10% to 15% for a period of two years. The hiring subsidy did not improve the job finding rate of eligible job seekers. We offer a novel explanation for this null finding. We first document that temporary work agencies obtained about 25% to 34% of the subsidies, and hired almost 40% of the subsidised job seekers. We then show that agencies did not respond to the policy by increasing the wages of subsidised workers. Remarkably, despite a 2.8% labour cost reduction, agencies employed 8% fewer eligible individuals after the reform. Our findings highlight the role of temporary work agencies in shaping the effectiveness of active labour market policies targeted at disadvantaged groups.</font>
 </p> 
 
+<p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> EEA-ESEM 2024 Rotterdam (by Giulia Tarullo) </font>
+</p> 
+
+
 
 <br>
 
@@ -46,7 +50,8 @@ author_profile: true
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong>	Shift work is a modality of work organization that has been scarcely explored in the economic literature compared to other working time modalities (e.g., part-time and temporary work). Policymakers have focused their attention on the negative effects that working shifts can have on the well-being and health of workers. However, less is known about differences in the prevalence of shift work over time and across countries. This paper describes ten stylized facts regarding the evolution of the prevalence of shift work across 15 European countries during 2001-2019 and links changes to differences in the evolution of shift premium across and within countries. It uses evidence from two surveys. The European Labor Force Survey (EU-LFS) for understanding differences in the prevalence of shift work across and within countries, and the European Structure of Earnings Survey (SES) to map changes in the shift premium. </font>
 </p> 
-
+<p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> 8th European User Conference 2023 Mannheim. </font>
+</p> 
 
 <br>
 
