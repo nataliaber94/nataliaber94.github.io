@@ -19,7 +19,7 @@ I visited the Economics Department (hosted by Prof. Pierre Cahuc) at Sciences Po
 
 **I am in the Job Market 2024-2025.**
 
-[You can find my CV here](https://drive.google.com/file/d/1-8zP7xXeg8O10729Rpd-F2zb7md1xHCz/view?usp=sharing)
+[You can find my CV here](https://drive.google.com/file/d/1GuPgwxRruNstFf9aaxAoAgbs0ewitku7/view?usp=sharing)
 
 ## Contact
 
