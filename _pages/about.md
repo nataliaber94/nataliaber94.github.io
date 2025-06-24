@@ -17,9 +17,7 @@ As part of my PhD thesis I am currently evaluating the impact of **Short-time wo
 
 I visited the Economics Department (hosted by Prof. Pierre Cahuc) at Sciences Po University in spring 2024.
 
-**I am in the Job Market 2024-2025.**
-
-[You can find my CV here](https://drive.google.com/file/d/1GuPgwxRruNstFf9aaxAoAgbs0ewitku7/view?usp=sharing)
+[You can find my CV here](https://drive.google.com/file/d/1Ba6rrV7ACBj6T3cjWHdxxoTNcL-5dPlQ/view?usp=sharing)
 
 ## Contact
 
