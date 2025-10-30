@@ -10,7 +10,7 @@ author_profile: true
 
 **"Protecting Jobs and Firms: The Impact of Short-Time Work during the COVID-19 Crisis in Belgium"**
 
-<i><font size="-0.5"> <strong> Job Market Paper (Coming soon!) </strong> </font></i>
+<i><font size="-0.5"> <strong> Job Market Paper (Available Under Request) </strong> </font></i>
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Short-Time Work (STW) programs aim to protect jobs and firms, but their effectiveness during the COVID-19 pandemic remains unclear. This paper evaluates STW during the pandemic, a period marked by economic lockdowns and high program uptake. Using a fuzzy regression discontinuity design, I analyze a Belgian policy reform that restricted access to firms that had used the program for less than 20% of contractual days at the peak of the crisis. The results show that STW effectively preserved employment in firms partially affected by lockdown measures, but had no significant effect on firms in essential sectors unaffected by lockdowns, indicating deadweight losses. These heterogeneous responses align with theoretical predictions, which suggest that STW is more effective for firms facing large and unexpected productivity shocks. </font>
 </p> 
@@ -31,19 +31,6 @@ author_profile: true
 
 <br>
 
-**"Hiring subsidies and temporary work agencies"**
-  
-<i><font size="-0.5"> with <a href="https://www.iza.org/person/30997/sam-desiere">Sam Desiere</a> and <a href="https://sites.google.com/view/giuliatarullo/home-page">Giulia Tarullo</a>. </font></i>[<font size="-0.5"><a href="https://www.iza.org/publications/dp/17616/hiring-subsidies-and-temporary-work-agencies">IZA Working Paper</a></font>]
-
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper evaluates a hiring subsidy for lower-educated youths in Flanders (Belgium) that reduced labour costs by approximately 13% for a period of two years, starting in 2016. Using a donut Regression Discontinuity Design, we find no evidence that the subsidy improved the job finding rate of eligible job seekers in 2016-19, a period marked by a tight labour market. We then investigate the role of temporary work agencies, which disproportionately employ the target group and obtain 25% to 34% of the subsidies. Using Difference-in-Differences regressions, we demonstrate that agencies did not raise wages of eligible agency workers in response to the policy. Remarkably, despite a 3.3% labour cost reduction, full-time equivalent employment of eligible workers in these agencies decreased by 9.2% over the three years following the reform. Our findings highlight how an active labour market policy affects agency employment.  </font>
-</p> 
-
-<p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> EEA-ESEM 2024 Rotterdam (by Giulia Tarullo) </font>
-</p> 
-
-
-
-<br>
 
 **"Shiftwork in Europe: Ten facts"**
   
@@ -67,6 +54,25 @@ author_profile: true
 
 
 ## Working Papers
+
+<br>
+
+**"Hiring subsidies and temporary work agencies"**
+  
+<i><font size="-0.5"> with <a href="https://www.iza.org/person/30997/sam-desiere">Sam Desiere</a> and <a href="https://sites.google.com/view/giuliatarullo/home-page">Giulia Tarullo</a>. </font></i>[<font size="-0.5"><a href="https://www.iza.org/publications/dp/17616/hiring-subsidies-and-temporary-work-agencies">IZA Working Paper</a></font>]
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper evaluates a hiring subsidy for lower-educated youths in Flanders (Belgium) that reduced labour costs by approximately 13% for a period of two years, starting in 2016. Using a donut Regression Discontinuity Design, we find no evidence that the subsidy improved the job finding rate of eligible job seekers in 2016-19, a period marked by a tight labour market. We then investigate the role of temporary work agencies, which disproportionately employ the target group and obtain 25% to 34% of the subsidies. Using Difference-in-Differences regressions, we demonstrate that agencies did not raise wages of eligible agency workers in response to the policy. Remarkably, despite a 3.3% labour cost reduction, full-time equivalent employment of eligible workers in these agencies decreased by 9.2% over the three years following the reform. Our findings highlight how an active labour market policy affects agency employment.  </font>
+</p> 
+
+<p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> EEA-ESEM 2024 Rotterdam (by Giulia Tarullo) </font>
+</p> 
+
+</p> 
+
+<p style="text-align: justify"> <font size="-1"> <strong><i> Revise and Resubmit at Labour Economics </i></strong>  </font>
+</p> 
+
+
 <br>
 
 **"Theory and Empirics of Short-Time Work: A Review"**
@@ -74,6 +80,11 @@ author_profile: true
 <i><font size="-0.5"> with <a href="https://perso.uclouvain.be/muriel.dejemeppe/">Muriel Dejemeppe</a> and <a href="https://sites.google.com/view/giuliatarullo/home-page">Giulia Tarullo</a>. </font></i>[<font size="-0.5"><a href="https://www.econstor.eu/handle/10419/279649">WP</a></font>]
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Following massive take-up rates during the COVID-19 period, short-time work (STW) policies have attracted renewed interest. In this paper, we take stock of this policy instrument and provide a critical review of STW systems in Europe. We focus on the objectives of STW programs and their primary characteristics, as well as the inefficiencies associated with these policies, such as excessive use and slower worker reallocation. Additionally, we take a stroll through the main contributions of STW impact evaluations. Finally, we identify relevant directions for the refinement of the main design features of the scheme, key lessons, and avenues for future research.</font>
+</p> 
+
+</p> 
+
+<p style="text-align: justify"> <font size="-1"> <strong><i> Revise & Resubmit </i></strong> </font>
 </p> 
 
 <br>
