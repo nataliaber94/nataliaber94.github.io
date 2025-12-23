@@ -20,17 +20,6 @@ author_profile: true
 
 <br>
 
-**"Short-time work and its effect on employment and firm survival: evidence from the Great Recession in Belgium"**
-<i><font size="-0.5"> with <a href="https://sites.google.com/site/bartcockxsite/">Bart Cockx</a> and <a href="https://www.nbb.be/nl/blog/author/gert-bijnens?language=de">Gert Bijnens</a>. </font></i>
-
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong>  We evaluate the effectiveness of Belgium’s short-time work (STW) program during the Great Recession, a period when the country recorded the highest STW take-up rate in Europe. STW allows firms to reduce working hours in response to temporary shocks while avoiding layoffs, playing a key role in European labor market insurance systems. Using an instrumental variable strategy that exploits quasi-exogenous variation stemming from an institutional feature of the Belgian program, we estimate the causal effects of STW on employment and firm survival. We find that, while STW significantly reduces the volume of work per worker, it does not lead to statistically significant employment gains for the average treated firm. Importantly, positive employment effects are concentrated among small manufacturing firms, which are more likely to face binding liquidity constraints. These findings highlight the importance of targeting and screening in improving the cost-effectiveness of STW programs and minimizing deadweight losses. </font>
-</p> 
-
-<p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> AIEL 2023 Genoa, COMPIE 2024 Amsterdam, ESPE 2024 Rotterdam, and EALE 2024 Bergen. </font>
-</p> 
-
-<br>
-
 
 **"Shiftwork in Europe: Ten facts"**
   
@@ -57,6 +46,17 @@ author_profile: true
 
 <br>
 
+**"Short-time work and its effect on employment and firm survival: evidence from the Great Recession in Belgium"**
+<i><font size="-0.5"> with <a href="https://sites.google.com/site/bartcockxsite/">Bart Cockx</a> and <a href="https://www.nbb.be/nl/blog/author/gert-bijnens?language=de">Gert Bijnens</a>. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5936635">NBB Working Paper</a> </font></i>
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong>  We evaluate the effectiveness of Belgium’s short-time work (STW) program during the Great Recession, a period when the country recorded the highest STW take-up rate in Europe. STW allows firms to reduce working hours in response to temporary shocks while avoiding layoffs, playing a key role in European labor market insurance systems. Using an instrumental variable strategy that exploits quasi-exogenous variation stemming from an institutional feature of the Belgian program, we estimate the causal effects of STW on employment and firm survival. We find that, while STW significantly reduces the volume of work per worker, it does not lead to statistically significant employment gains for the average treated firm. Importantly, positive employment effects are concentrated among small manufacturing firms, which are more likely to face binding liquidity constraints. These findings highlight the importance of targeting and screening in improving the cost-effectiveness of STW programs and minimizing deadweight losses. </font>
+</p> 
+
+<p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> AIEL 2023 Genoa, COMPIE 2024 Amsterdam, ESPE 2024 Rotterdam, and EALE 2024 Bergen. </font>
+</p> 
+
+<br>
+
 **"Hiring subsidies and temporary work agencies"**
   
 <i><font size="-0.5"> with <a href="https://www.iza.org/person/30997/sam-desiere">Sam Desiere</a> and <a href="https://sites.google.com/view/giuliatarullo/home-page">Giulia Tarullo</a>. </font></i>[<font size="-0.5"><a href="https://www.iza.org/publications/dp/17616/hiring-subsidies-and-temporary-work-agencies">IZA Working Paper</a></font>]
@@ -65,8 +65,6 @@ author_profile: true
 </p> 
 
 <p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> EEA-ESEM 2024 Rotterdam (by Giulia Tarullo) </font>
-</p> 
-
 </p> 
 
 <p style="text-align: justify"> <font size="-1"> <strong><i> Revise and Resubmit at Labour Economics </i></strong>  </font>
@@ -82,9 +80,8 @@ author_profile: true
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Following massive take-up rates during the COVID-19 period, short-time work (STW) policies have attracted renewed interest. In this paper, we take stock of this policy instrument and provide a critical review of STW systems in Europe. We focus on the objectives of STW programs and their primary characteristics, as well as the inefficiencies associated with these policies, such as excessive use and slower worker reallocation. Additionally, we take a stroll through the main contributions of STW impact evaluations. Finally, we identify relevant directions for the refinement of the main design features of the scheme, key lessons, and avenues for future research.</font>
 </p> 
 
-</p> 
 
-<p style="text-align: justify"> <font size="-1"> <strong><i> Revise & Resubmit </i></strong> </font>
+<p style="text-align: justify"> <font size="-1"> <strong><i> Revise & Resubmit at Economics and Statistics 2025  </i></strong> </font>
 </p> 
 
 <br>
