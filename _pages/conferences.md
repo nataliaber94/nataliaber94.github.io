@@ -15,7 +15,7 @@ redirect_from:
     * European Association of Labour Economists - [EALE Conference 2024](https://www.eventure-online.com/eventure/login.form?Uaf8ff51d-3d50-43b9-aee4-9c4fd61f2ee8), Bergen.
   * <strong> 2023 </strong>
     * Spring Doctoral Workshop (UCLouvain), Louvain-la-Neuve.
-    * EDP Jamboree (PSE), Paris.
+    *  (PSE), Paris.
     * [Italian Association of Labour Economics (AIEL)](https://www.aiel.it/Files/Administrator/Events/Documents/event638297718232459376.pdf), Genoa.
     * 18th Belgian Day for Labour Economist (BDLE), National Bank of Belgium, Brussels.
     * 8th European User Conference for EU Microdata, Manheim.
