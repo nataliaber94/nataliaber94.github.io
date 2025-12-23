@@ -17,9 +17,7 @@ My doctoral thesis evaluated the impact of Short-Time Work (STW) policies in Bel
 
 In spring 2024, I was a visiting researcher at the Department of Economics at Sciences Po University, hosted by Professor Pierre Cahuc.
 
-I am currently working as a researcher at UCLouvain until February 2026.
-
-[You can find my CV here](https://drive.google.com/file/d/1Ba6rrV7ACBj6T3cjWHdxxoTNcL-5dPlQ/view?usp=sharing)
+I am currently working as a postdoctoral researcher at IRES/LIDAM UCLouvain.
 
 ## Contact
 
