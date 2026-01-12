@@ -81,7 +81,7 @@ author_profile: true
 </p> 
 
 
-<p style="text-align: justify"> <font size="-1"> <strong><i> Revise & Resubmit at Economics and Statistics 2025  </i></strong> </font>
+<p style="text-align: justify"> <font size="-1"> <strong><i> Forthcoming at Economie et Statistique under the title ``Protecting Jobs, Preserving Efficiency: Insights from European Short-Time Work Schemes'''  </i></strong> </font>
 </p> 
 
 <br>
