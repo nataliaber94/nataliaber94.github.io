@@ -9,6 +9,9 @@ redirect_from:
 ---
 {% include base_path %}
 
+  * <strong> 2025 </strong>
+    * IRES/ LIDAM Lunch Seminar.
+    * 19th Belgian Day for Labour Economist (BDLE).
   * <strong> 2024 </strong>
     * Counterfactual Methods for Policy Impact Evaluation, Amsterdam [COMPIE 2024 conference](https://editorialexpress.com/conference/COMPIE2024/program/COMPIE2024.html).
     * 37th Annual Conference of the European Society for Population Economics - [ESPE 2024 conference](https://espe2024rotterdam.github.io/espewebsite/Program%20Detailed%20(Parallel%20Sessions).pdf), Rotterdam.

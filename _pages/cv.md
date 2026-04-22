@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://drive.google.com/file/d/1Pw0cQ406D9t3XoWWPQh8StLSXQipIIQ5/view?usp=sharing) (Last update: December 2025)
+[Download CV here](https://uclouvain-my.sharepoint.com/:b:/g/personal/natalia_bermudez_uclouvain_be/IQCrAEkGtMtfQJIxafYvcXqzAa9S4Licq3-QeRc_ThKxsj8?e=JUYbYD) (Last update: April 2026)
