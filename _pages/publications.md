@@ -20,18 +20,6 @@ author_profile: true
 
 <br>
 
-
-**"Shiftwork in Europe: Ten facts"**
-  
-<i><font size="-0.5"> with <a href="https://www.iza.org/person/30997/sam-desiere">Sam Desiere</a>. </font></i>[<font size="-0.5"><a href="https://www.gesis.org/fileadmin/upload/dienstleistung/daten/amtl_mikrodaten/europ_microdata/Abstracts_2023/002-01-16_Bermudez__Desiere.pdf">Long abstract</a></font>]
-
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong>	Shift work is a modality of work organization that has been scarcely explored in the economic literature compared to other working time modalities (e.g., part-time and temporary work). Policymakers have focused their attention on the negative effects that working shifts can have on the well-being and health of workers. However, less is known about differences in the prevalence of shift work over time and across countries. This paper describes ten stylized facts regarding the evolution of the prevalence of shift work across 15 European countries during 2001-2019 and links changes to differences in the evolution of shift premium across and within countries. It uses evidence from two surveys. The European Labor Force Survey (EU-LFS) for understanding differences in the prevalence of shift work across and within countries, and the European Structure of Earnings Survey (SES) to map changes in the shift premium. </font>
-</p> 
-<p style="text-align: justify"> <font size="-1"> <strong> Presented at  </strong> 8th European User Conference 2023 Mannheim. </font>
-</p> 
-
-<br>
-
 **"Firm outcomes adjustment in response to changes in the corporate income tax rate in Developing Countries: Evidence from Ecuador 2013 - 2019"**
   
 <i><font size="-0.5"> Master Thesis supervisor: <a href="https://sites.google.com/view/williampariente/home">William Parienté </a>. </font></i>[<font size="-0.5"><a href="https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A30742">Abstract</a></font>]
@@ -73,19 +61,6 @@ author_profile: true
 
 <br>
 
-**"Theory and Empirics of Short-Time Work: A Review"**
-  
-<i><font size="-0.5"> with <a href="https://perso.uclouvain.be/muriel.dejemeppe/">Muriel Dejemeppe</a> and <a href="https://sites.google.com/view/giuliatarullo/home-page">Giulia Tarullo</a>. </font></i>[<font size="-0.5"><a href="https://www.econstor.eu/handle/10419/279649">WP</a></font>]
-
-<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Following massive take-up rates during the COVID-19 period, short-time work (STW) policies have attracted renewed interest. In this paper, we take stock of this policy instrument and provide a critical review of STW systems in Europe. We focus on the objectives of STW programs and their primary characteristics, as well as the inefficiencies associated with these policies, such as excessive use and slower worker reallocation. Additionally, we take a stroll through the main contributions of STW impact evaluations. Finally, we identify relevant directions for the refinement of the main design features of the scheme, key lessons, and avenues for future research.</font>
-</p> 
-
-
-<p style="text-align: justify"> <font size="-1"> <strong><i> Forthcoming at Economie et Statistique under the title ``Protecting Jobs, Preserving Efficiency: Insights from European Short-Time Work Schemes'''  </i></strong> </font>
-</p> 
-
-<br>
-
 **"Taxable Income Elasticities in Developing Countries: Evidence From Ecuador"**
   
 <i><font size="-0.5"> with <a href="https://scholar.google.com/citations?user=Q-RlvwEAAAAJ&hl=en">José G. Castillo García</a>. </font></i>[<font size="-0.5"><a href="http://dx.doi.org/10.2139/ssrn.4233450">WP</a></font>]
@@ -98,11 +73,19 @@ author_profile: true
 
 
 ## Publications
+
+<a href="https://www.insee.fr/en/statistiques/9008748?sommaire=9008753">**"Protecting Jobs, Preserving Efficiency: Insights from European Short‑Time Work Schemes"**</a>
+
+<i><font size="-0.5"> with <a href="https://perso.uclouvain.be/muriel.dejemeppe/">Muriel Dejemeppe</a> and <a href="https://sites.google.com/view/giuliatarullo/home-page">Giulia Tarullo</a>. [<font size="-0.5"> </font>] [<font size="-0.5"><a href="https://doi.org/10.1111/rode.12771">Economie et Statistique / Economics and Statistics</a></font>]
+
+<p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> Short‑time work (STW) programmes have been central to European labour‑market policy during the Great Recession and COVID‑19. This survey integrates theory, cross‑country institutional design, and microeconometric evidence to assess whether and how STW succeeds in stabilising employment, preserving firm‑specific human capital, and mitigating employees’ loss of earnings. Comparative analysis of Belgium, France, Germany, and Italy shows that targeting temporary shocks, combining monitoring with financial incentives for beneficiary firms, and limiting programme duration are crucial to maximise benefits. By contrast, untargeted or prolonged STW not only generates deadweight losses but also delays necessary labour reallocation. Well‑designed programmes support firms and workers efficiently while preserving labour‑market adjustment.</font>
+</p> 
+
 <br>
 
 <a href="https://doi.org/10.1111/rode.12771">**"Productivity determinants in the construction sector in emerging country: New evidence from Ecuadorian firms"**</a>
 
-<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a>. [<font size="-0.5"> Article </font>] [<font size="-0.5"><a href="https://doi.org/10.1111/rode.12771">Review of Development Economics</a></font>]
+<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a>. [<font size="-0.5">  </font>] [<font size="-0.5"><a href="https://doi.org/10.1111/rode.12771">Review of Development Economics</a></font>]
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The construction sector is one of the most important sectors for economic development due, among other reasons, to the productive chains that it generates. This paper presents an analysis of the determinants of the total factor productivity (TFP) in the Ecuadorian construction sector during the period 2007–2018. In the first stage, we estimate a production function using the Wooldridge (Economics Letters, 2009, 104, 112–114) estimator to correct the simultaneous determination of inputs and firm unobserved productivity. In the second stage, we analyze the main determinants of TFP. These determinants are classified into four groups: internal, international trade, financial constraints, and external characteristics. Our results suggest that firm age is positively related with TFP but negatively related with TFP growth. Similarly, the fact of being a family firm is negatively related with TFP, but size is positively related with TFP and its growth across the construction subsectors. In addition, we find that access to debt and credit is positively related with productivity, but less-competitive environment is negatively related with productivity. Finally, our results suggest that TFP and its growth are pro-cyclical with respect to the gross domestic product. Our results have several managerial implications that are discussed in this article.</font>
 </p> 
@@ -112,7 +95,7 @@ author_profile: true
 
 <a href="https://doi.org/10.1007/s00191-022-00806-2">**"Is FDI a potential tool for boosting firm’s performance? Firm level evidence from Ecuador"**</a>
 
-<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a> and <a href="https://scholar.google.co.th/citations?user=eA-MQHQAAAAJ&hl=th">Mary Armijos</a>. [<font size="-0.5"> Article </font>] [<font size="-0.5"><a href="https://doi.org/10.1007/s00191-022-00806-2">Journal of Evolutionary Economics</a></font>]
+<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a> and <a href="https://scholar.google.co.th/citations?user=eA-MQHQAAAAJ&hl=th">Mary Armijos</a>. [<font size="-0.5">  </font>] [<font size="-0.5"><a href="https://doi.org/10.1007/s00191-022-00806-2">Journal of Evolutionary Economics</a></font>]
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> In developing countries, the evidence regarding the direct and indirect effects of FDI on economic and financial performance at the firm level is mixed. To contribute to this literature, we provide empirical evidence of direct and indirect effects of FDI on firm’s performance, using return on assets (ROA), gross revenues and gross revenues growth rate as performance measures. We examine the private formal enterprise sector in Ecuador from 2007 to 2018. Our identification strategy relies on the use of the Generalized Method of Moments (GMM) methodology for dynamic panel data which allows us to control for potential endogeneity, autocorrelation and heteroskedasticity issues. The results suggest that firms with inward FDI grow faster than their counterparts, and firms with higher amounts of FDI as a share of total revenues have on average higher levels of gross revenues. Moreover, we find negative horizontal wages and gross revenues spillover effects on gross revenues growth rates, but positive horizontal gross revenues spillover effects on ROA. There is also significant evidence of negative horizontal spillover effects in all economic sectors, whereas evidence for forward and backward spillovers is heterogeneous across them.</font>
 </p> 
@@ -122,7 +105,7 @@ author_profile: true
 
 <a href="https://doi.org/10.1108/IJOEM-07-2018-0371">**"Determinants of profitability of life and non-life insurance companies: evidence from Ecuador"**</a>
 
-<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a>. [<font size="-0.5"> Article </font>] [<font size="-0.5"><a href="https://doi.org/10.1108/IJOEM-07-2018-0371">International Journal of Emerging Markets</a></font>]
+<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino</a>. [<font size="-0.5">  </font>] [<font size="-0.5"><a href="https://doi.org/10.1108/IJOEM-07-2018-0371">International Journal of Emerging Markets</a></font>]
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> The purpose of this paper is is to identify the main determinants of insurance profitability on life and non-life segments to obtain which variables affect in each market of the Ecuadorian insurance sector. Using a large panel data set with financial information from 2001 to 2017 we estimate the determinants through a panel corrected standard errors regression. We find that net premiums, technical reserves, capital ratio and score efficiency are micro-determinants in the life insurance sector, whereas in the non-life sector, the micro-determinants include also claim levels and liquidity ratios; moreover, we find that HHI is a determinant of profitability only in the life insurance sector. Among the macro determinants set, we find that the interest rate has also a significant impact both in the life and non-life insurance segments.</font>
 </p> 
@@ -132,7 +115,7 @@ author_profile: true
 
 <a href="https://doi.org/10.1080/15140326.2025.2472588">**"Market power versus efficiency in the Ecuadorian bank credit market"**</a>
 
-<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino-Mogro</a>, Mary Armijos, Paúl Vera-Gilces, Natalia Bermúdez-Barrezueta, Xavier Ordeñana-Rodríguez, and Juan Dominguez. [<font size="-0.5"> Article </font>] [<font size="-0.5"><a href="https://doi.org/10.1080/15140326.2025.2472588">Journal of Applied Economics</a></font>]
+<i><font size="-0.5"> with <a href="https://sites.google.com/view/segundocaminom/home">Segundo Camino-Mogro</a>, Mary Armijos, Paúl Vera-Gilces, Natalia Bermúdez-Barrezueta, Xavier Ordeñana-Rodríguez, and Juan Dominguez. [<font size="-0.5">  </font>] [<font size="-0.5"><a href="https://doi.org/10.1080/15140326.2025.2472588">Journal of Applied Economics</a></font>]
 
 <p style="text-align: justify"> <font size="-1"> <strong> Abstract: </strong> This paper analyzes credit level determinants from a microeconomic standpoint. Furthermore, we test market power and efficiency hypotheses on credit levels in general, which are then classified as high- or low-risk. We use the non-parametric Data Envelopment Analysis (DEA) and a two-step system Generalized Method of Moments (GMM) approach. In addition, we do robustness checks using other market power variables to demonstrate that our results do not change. The main findings uncover evidence that supports the efficiency hypothesis vis-a-vis market power in determining total credit, high-risk credit, and low-risk credit allocation. This result indirectly suggests that banks operate at optimal costs and have correct operational management regarding the placement of credits. The most efficient banks may have better placement processes, better risk scores, and better information management of potential clients, which could lead to a greater market share (because of efficiency rather than concentration).</font>
 </p> 
