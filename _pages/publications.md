@@ -117,6 +117,6 @@ author_profile: true
 
 ## Policy Publications
 
-**"Le chômage temporaire en Belgique : un outil efficace et bénéfique, à condition d'en maîtriser l'usage"**
+<a href="https://www.regards-economiques.be/index.php?option=com_reco&view=article&cid=252">**"Le chômage temporaire en Belgique : un outil efficace et bénéfique, à condition d'en maîtriser l'usage"**</a>
 
-<i><font size="-0.5"> with <a href="https://sites.google.com/site/bartcockxsite/">Bart Cockx</a>, Nele De Cuyper, Hans De Witte, <a href="https://perso.uclouvain.be/muriel.dejemeppe/">Muriel Dejemeppe</a>, Charlotte Rodriguez Conde, Florence Stinglhamber and <a href="https://sites.google.com/view/giuliatarullo/home-page">Giulia Tarullo</a>. [<font size="-0.5">Regards économiques, No. 190, 2025</font>]</font></i>
+<i><font size="-0.5"> with <a href="https://sites.google.com/site/bartcockxsite/">Bart Cockx</a>, Nele De Cuyper, Hans De Witte, <a href="https://perso.uclouvain.be/muriel.dejemeppe/">Muriel Dejemeppe</a>, Charlotte Rodriguez Conde, Florence Stinglhamber and <a href="https://sites.google.com/view/giuliatarullo/home-page">Giulia Tarullo</a>. [<font size="-0.5"><a href="https://www.regards-economiques.be/index.php?option=com_reco&view=article&cid=252">Regards économiques, No. 190, 2025</a></font>]</font></i>
