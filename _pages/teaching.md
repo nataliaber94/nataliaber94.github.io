@@ -9,8 +9,7 @@ author_profile: true
 ## Lecturer
 
 **[Econometrics](https://bermudeznatalia.com/econ0212-3/)** (ECON0212), third-year Bachelor<br />
-<i>HEC Liège – Université de Liège</i>, replacement professor, 2026–present.<br />
-[Course page](https://bermudeznatalia.com/econ0212-3/) with the lecture slides in HTML and PDF.
+<i>HEC Liège – Université de Liège</i>, replacement professor, 2026–present.
 
 ## Teaching Assistant
 
