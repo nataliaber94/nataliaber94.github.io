@@ -17,12 +17,6 @@ I hold a Ph.D. in Economics from UCLouvain ([IRES/LIDAM](https://uclouvain.be/en
 
 My research interests include **micro-econometrics** and **labor economics**. <br />
 
-My doctoral thesis evaluated the impact of Short-Time Work (STW) policies in Belgium during the Great Recession and the COVID-19 crisis.<br />
-
-In spring 2024, I was a visiting researcher at the Department of Economics at Sciences Po, hosted by Professor Pierre Cahuc.<br />
-
-Since September 2026, I have also been a replacement professor at [HEC Liège](https://www.hec.uliege.be/) (Université de Liège), where I teach Econometrics to third-year bachelor students.
-
 ## Contact
 
 natalia.bermudez@uclouvain.be or natalia.bermudez@ugent.be   
