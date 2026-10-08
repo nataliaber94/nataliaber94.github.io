@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Natalia Bermúdez-Barrezueta"
 title_separator          : "-"
 name                     : &name "Natalia Bermúdez"
-description              : &description "Ph.D. Candidate in Economics"
+description              : &description "Postdoctoral Researcher in Economics"
 url                      : https://nataliaber94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nataliaber94/nataliaber94.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ph.D. Candidate in Economics"
+  name             : "Postdoctoral Researcher in Economics"
   avatar           : "profile.jpg"
   bio              : "CAPE, UCLouvain Saint-Louis Bruxelles and Department of Economics, UGent"
   location         : "Belgium"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0MEXVUsAAAAJ&hl=en&oi=ao"
-  email            : "natalia.bermudez@ugent.be"
+  email            : "natalia.bermudez@uclouvain.be"
   publicationsgate     :  # example: "https://www.publicationsgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
