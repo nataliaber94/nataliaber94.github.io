@@ -6,10 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Lecturer
+## Replacement lecturer
 
 **[Econometrics](https://bermudeznatalia.com/econ0212-3/)** (ECON0212), third-year Bachelor<br />
 <i>HEC Liège – Université de Liège</i>, replacement professor, 2026–present.
+<br /><font size="-1"><i>Note:</i> This course material was originally developed by <a href="https://malkaguillot.github.io/"><strong>Malka Guillot</strong></a>. I have made minor adjustments and am very grateful to her for sharing her work and supporting open-access learning.</font>
 
 ## Teaching Assistant
 
